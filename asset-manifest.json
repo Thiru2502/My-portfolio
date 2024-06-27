@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Thiru2502/My-portfolio.git/static/css/main.a5a0714d.css",
+    "main.js": "/Thiru2502/My-portfolio.git/static/js/main.dcce6ba9.js",
+    "static/media/projects.png": "/Thiru2502/My-portfolio.git/static/media/projects.29f357906ef9e7c50800.png",
+    "static/media/project2.png": "/Thiru2502/My-portfolio.git/static/media/project2.305963cb6e8b7578a9b6.png",
+    "static/media/project3.png": "/Thiru2502/My-portfolio.git/static/media/project3.f8022136e4fa914bcaa7.png",
+    "static/media/Hero.png": "/Thiru2502/My-portfolio.git/static/media/Hero.8b3199f6341a72a7ce43.png",
+    "static/media/about.png": "/Thiru2502/My-portfolio.git/static/media/about.b95da25cbb2f1aba6551.png",
+    "static/media/resume.jpg": "/Thiru2502/My-portfolio.git/static/media/resume.3a133ef1bdc6b22068fb.jpg",
+    "index.html": "/Thiru2502/My-portfolio.git/index.html",
+    "main.a5a0714d.css.map": "/Thiru2502/My-portfolio.git/static/css/main.a5a0714d.css.map",
+    "main.dcce6ba9.js.map": "/Thiru2502/My-portfolio.git/static/js/main.dcce6ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a0714d.css",
+    "static/js/main.dcce6ba9.js"
+  ]
+}
