@@ -7,10 +7,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production"
-     "test": "react-scripts test",
+    "build": "webpack --mode production",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "keywords": [
     "react",
@@ -18,14 +17,12 @@
   ],
   "author": "Your Name",
   "license": "MIT",
+  "homepage": "https://Thiru2502.github.io/My-portfolio",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "webpack": "^5.0.0"
   }
-}
-{
-  "homepage": "https://Thiru2502.github.io/My-portfolio"
 }
 
 
